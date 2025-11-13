@@ -15,13 +15,16 @@ Mein Fokus liegt darauf, Produktionsprozesse smarter, nachhaltiger und digitaler
 ## ⚙️ Top-Fähigkeiten
 
 -Automatisierungsplanung:  Erstellung von Automatisierungskonzepten
+
 -SPS‐Programmierung:      CODESYS · Siemens TIA Portal · IEC 61131‐3
 -Visualisierung:          WinCC · CODESYS Visualization
 -Simulation:              Factory I/O · PLCSIM · PLCSIM Advanced · Enterprise Dynamics
 -CAD‐Kenntnisse:          Solid Edge · BricsCAD · Navisworks · Autodesk BIM 360 Docs
 -EDV‐Kenntnisse:          MS Office · MS Project · MS Visio · ORCA AVA
 -Programmiersprachen:     Python · C++
-
+- Python  
+- PLC Programming (Siemens, Industry standards)  
+- OPC UA (Industrial Communication)  
 ---
 
 ## 🤝 Kontakt / Vernetzen:
