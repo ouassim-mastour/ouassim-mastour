@@ -27,4 +27,4 @@ Mein Fokus liegt darauf, Produktionsprozesse smarter, nachhaltiger und digitaler
 
 ## 🤝 Kontakt / Vernetzen:
 
-[![LinkedIn](https://www.linkedin.com/in/ouassim-mastour/)] 
+[LinkedIn](https://www.linkedin.com/in/ouassim-mastour/)
