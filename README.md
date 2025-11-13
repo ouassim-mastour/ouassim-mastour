@@ -32,5 +32,5 @@ Mein Fokus liegt darauf, Produktionsprozesse smarter, nachhaltiger und digitaler
 ---
 
 ## ⚡ Fun Facts
-💪 Fitness und Sport helfen mir, neben der Arbeit den Kopf frei zu bekommen.
-⚽ Ich schaue gerne Fußball
+- 💪 Fitness und Sport helfen mir, neben der Arbeit den Kopf frei zu bekommen.
+- ⚽ Ich schaue gerne Fußball
