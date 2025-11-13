@@ -1,6 +1,6 @@
-## Hallo, ich bin Ouassim Mastour  👋
+## Hallo, ich bin Ouassim Mastour 👋 !
 
-** Automatisierungsingenieur**
+** Automatisierungsingenieur** 
 
 ---
 
