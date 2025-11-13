@@ -28,3 +28,9 @@ Mein Fokus liegt darauf, Produktionsprozesse smarter, nachhaltiger und digitaler
 ## 🤝 Kontakt / Vernetzen:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ouassim-mastour/)
+
+---
+
+## ⚡ Fun Facts
+💪 Fitness und Sport helfen mir, neben der Arbeit den Kopf frei zu bekommen.
+⚽ Ich schaue gerne Fußball
